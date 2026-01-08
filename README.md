@@ -54,4 +54,3 @@ Bluepad32 kütüphanesi sayesinde modern oyun kollarını destekler.
 * `MiniDump_Bluepad2.0.ino`: Modern gamepad destek katmanı.
 
 ---
-*Bu proje akademik/hobi amaçlı geliştirilmiş olup, tüm donanım ve yazılım hakları saklıdır.*
