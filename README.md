@@ -1,5 +1,5 @@
 # 🚚 Mini-Dump: ESP32 Controlled RC Dump Truck
-
+![PHOTO-2026-01-08-16-19-29](https://github.com/user-attachments/assets/d35af756-11e4-447c-9b86-17025edbc0e8)
 Bu proje, ESP32 mikrodenetleyici kullanılarak geliştirilmiş, çok fonksiyonlu bir uzaktan kumandalı mini çöp kamyonu (Mini-Dump) projesidir. Proje; **PS3 Kolu**, **Web Arayüzü (Wi-Fi)** ve **Modern Gamepadler (Bluepad32)** ile kontrol edilebilen esnek bir yazılım altyapısına sahiptir.
 
 ## ✨ Öne Çıkan Özellikler
@@ -55,5 +55,5 @@ Bluepad32 kütüphanesi sayesinde modern oyun kollarını destekler.
 
 ---
 
-![PHOTO-2026-01-08-16-19-29](https://github.com/user-attachments/assets/d35af756-11e4-447c-9b86-17025edbc0e8)
+
 
